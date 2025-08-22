@@ -1,9 +1,7 @@
 [
-  
-  
   {
     "name": "Online Food Recipe Management System",
-    "desc": "FOOD VAULT - Full stack online food recipe management system built on javascript,html,css,bootstrap,php,mysql.",
+    "desc": "FOOD VAULT - Full stack online food recipe management system built on JavaScript, HTML, CSS, Bootstrap, PHP, MySQL.",
     "image": "food",
     "category": "websites",
     "links": {
@@ -13,7 +11,7 @@
   },
   {
     "name": "Online Banking System",
-    "desc": "SIGS BANK - servlet based online banking system built on java,html,css,bootstrap,javascript,mysql.",
+    "desc": "SIGS BANK - Servlet-based online banking system built on Java, HTML, CSS, Bootstrap, JavaScript, MySQL.",
     "image": "bank",
     "category": "websites",
     "links": {
@@ -23,56 +21,82 @@
   },
   {
     "name": "Job Recruitment Website",
-    "desc": "INFINITY JOBS - Full stack job recruitment website built on javascript,html,css,bootstrap,php,mysql.",
+    "desc": "INFINITY JOBS - Full stack job recruitment website built on JavaScript, HTML, CSS, Bootstrap, PHP, MySQL.",
     "image": "capture",
     "category": "websites",
     "links": {
       "view": "",
       "code": "https://github.com/Shiranakther/Complete-job-recruitment-site"
     }
-  }
-  ,
+  },
   {
-    "name": "portfolio",
-    "desc": "portfolio website built on javascript,html,css,bootstrap,php,mysql.",
+    "name": "Portfolio Website",
+    "desc": "Personal portfolio website built on JavaScript, HTML, CSS, Bootstrap, PHP, MySQL.",
     "image": "port",
     "category": "websites",
     "links": {
       "view": "",
       "code": ""
     }
-  }
-  ,
+  },
   {
     "name": "E-Channelling System",
-    "desc": "E-Channelling System built on java,html,css,bootstrap,javascript,mysql.",
+    "desc": "E-Channelling system built on Java, HTML, CSS, Bootstrap, JavaScript, MySQL.",
     "image": "fed",
     "category": "websites",
     "links": {
       "view": "",
       "code": ""
     }
-    
-    
-  }
-  ,
+  },
   {
-    "name": "POINT OF SALES SYSTEM",
-    "desc": "POINT OF SALES SYSTEM built on java,apache netbeans,mysql.",
+    "name": "Point of Sales System",
+    "desc": "Point of Sales desktop application built on Java (Apache NetBeans) and MySQL.",
     "image": "pos",
     "category": "desktop",
     "links": {
       "view": "",
       "code": "https://github.com/Shiranakther/Inventory-Management-System"
     }
-    
-    
-    
+  },
+  {
+    "name": "BakeBuddy",
+    "desc": "AI-powered smart bakery management system for inventory, production, and sales optimization. Features SmartBake (Gemini API) for ingredient usage analysis and recipe generation.",
+    "image": "bakebuddy",
+    "category": "websites",
+    "links": {
+      "view": "https://github.com/Shiranakther/BakeBuddy---Bakery-Management-System",
+      "code": "https://github.com/Shiranakther/BakeBuddy---Bakery-Management-System"
+    }
+  },
+  {
+    "name": "DevZora",
+    "desc": "Learning and skill-sharing platform with user management, course management, OAuth 2.0 authentication, and Stripe integration for payments.",
+    "image": "devzora",
+    "category": "websites",
+    "links": {
+      "view": "https://github.com/Shiranakther/Devzora",
+      "code": "https://github.com/Shiranakther/Devzora"
+    }
+  },
+  {
+    "name": "Warehouse Management System",
+    "desc": "Multi-vendor warehouse system with automated purchase requests, inventory tracking, and vendor coordination.",
+    "image": "wms",
+    "category": "websites",
+    "links": {
+      "view": "https://github.com/Shiranakther/Warehouse_Management_Syatem",
+      "code": "https://github.com/Shiranakther/Warehouse_Management_Syatem"
+    }
+  },
+  {
+    "name": "CakeHaven",
+    "desc": "AI-powered e-commerce platform for cake businesses with role-based access, customer ratings, Stripe payments, and Cloudinary integration.",
+    "image": "cakehaven",
+    "category": "websites",
+    "links": {
+      "view": "https://github.com/Shiranakther/mybizz",
+      "code": "https://github.com/Shiranakther/mybizz"
+    }
   }
- 
-    
-    
-    
-  
-  
 ]
